@@ -75,6 +75,6 @@ You can see the difference of your packages list Python installed on virtualenv 
 
 
 
-<b>Source:<a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/"></a>
+<b>Source:<a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/"></a></b>
 
 
