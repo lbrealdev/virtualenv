@@ -49,4 +49,32 @@ pip        20.0.2
 setuptools 45.2.0
 wheel      0.34.2
 ```
-You can see the difference of your packages list Python installed on virtualenv with packages Python installed in your system.  
+You can see the difference of your packages list Python installed on virtualenv with packages Python installed in your system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>Source:<a href="https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/"></a>
+
+
