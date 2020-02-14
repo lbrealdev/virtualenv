@@ -11,7 +11,7 @@ pip install virtualenvwrapper-win
 
 ## Create virtualenv
 
-### Execute virtualenv or mkvirtualenv, but creating with mkvirtualenv will create your env in C:\Users\Username\Evns\. With virtualenv will create your env in your current directory.
+### Execute virtualenv or mkvirtualenv, but creating with mkvirtualenv will create your env in `C:\Users\Username\Evns\`. With virtualenv will create your env in your current directory.
 
 ```
 virtualenv testspy
